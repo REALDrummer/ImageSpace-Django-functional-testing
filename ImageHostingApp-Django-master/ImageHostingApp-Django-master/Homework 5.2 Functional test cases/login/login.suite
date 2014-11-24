@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="blank username . blank password.case">blank username . blank password</a></td></tr>
+<tr><td><a href="blank username . filled password.case">blank username . filled password</a></td></tr>
+<tr><td><a href="correct username . blank password.case">correct username . blank password</a></td></tr>
+<tr><td><a href="correct username . correct password.case">correct username . correct password</a></td></tr>
+<tr><td><a href="correct username . incorrect password.case">correct username . incorrect password</a></td></tr>
+<tr><td><a href="invalid username . blank password.case">invalid username . blank password</a></td></tr>
+<tr><td><a href="invalid username . filled password.case">invalid username . filled password</a></td></tr>
+<tr><td><a href="valid unregistered username . blank password.case">valid unregistered username . blank password</a></td></tr>
+<tr><td><a href="valid unregistered username . filled password.case">valid unregistered username . filled password</a></td></tr>
+</tbody></table>
+</body>
+</html>
