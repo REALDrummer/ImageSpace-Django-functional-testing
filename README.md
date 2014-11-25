@@ -8,11 +8,10 @@
 | Alex Weldon  | ajweldon@asu.edu | 
 
 ### Group Information
-Group 5: Software development environments and platforms: Eclipse
-Appropriate links
-Github Link: `TODO`
-YouTube Link: `TODO`
-Instructions to run functional tests
+
+Software development environments and platforms: Eclipse Luna
+
+YouTube Link:  https://www.youtube.com/watch?v=_wdoIaVE47M&feature=youtu.be
 
 #### installation
 NOTE: Installation and testing should be executed on a Windows machine with a writable "C:" drive.
